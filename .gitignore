@@ -1,0 +1,49 @@
+# Python: cachés y archivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# Herramientas de desarrollo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Paquetes y artefactos de construcción
+build/
+dist/
+*.egg-info/
+
+# Configuración local de editores e IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos temporales del sistema y del editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Archivos temporales generados por pruebas
+.tox/
+.nox/
+.hypothesis/

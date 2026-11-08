@@ -1,6 +1,6 @@
 """
 AgroBot - Proyecto 1 de Inteligencia Artificial (Univalle)
-Hecho por: Andres Muñoz, Thomas Herrera y Daniel Micolta
+Hecho por: Andres Muñoz, Thomas Herrera, Brandon Franco y Daniel Micolta
 
 INTERFAZ GRÁFICA (este es el archivo que se ejecuta):
     - Usa logica.py para leer el mundo y correr las búsquedas.
@@ -22,7 +22,7 @@ from tkinter import font as tkfont
 import dibujos
 import logica
 
-AUTORES = "Andres Muñoz, Thomas Herrera y Daniel Micolta"
+AUTORES = "Andres Muñoz, Thomas Herrera, Brandon Franco y Daniel Micolta"
 
 # ------------------------------------ Colores de la ventana ------------------------------------
 
